@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 The agent policies (`data/q_dicts/`) and the word pairs are in the repository.
 The simulation outputs used in the paper are on Zenodo
-(doi:10.5281/zenodo.XXXXXXX). Download the archive and unpack it into `data/`,
+([doi:10.5281/zenodo.23497527](https://doi.org/10.5281/zenodo.23497527)). Download the archive and unpack it into `data/`,
 so that you get `data/grid/`, `data/tmax/`, `data/density/`,
 `data/metastable_K/` and `data/metastable_N/`. `data/README.md` describes every
 file and field.
