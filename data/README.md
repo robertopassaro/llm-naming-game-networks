@@ -3,7 +3,7 @@
 `q_dicts/` and `crows_pairs_stereo_sample.pkl` are the model inputs and are
 part of the repository. The simulation outputs (`grid/`, `tmax/`, `density/`,
 `metastable_K/`, `metastable_N/`) are archived on Zenodo
-([doi:10.5281/zenodo.23497527](https://doi.org/10.5281/zenodo.23497527)); unpack the archive here.
+([doi:10.5281/zenodo.23497527](https://doi.org/10.5281/zenodo.23497527)); unzip the archive in the repository root.
 
 All files are Python pickles of plain dicts, lists and numpy arrays.
 
