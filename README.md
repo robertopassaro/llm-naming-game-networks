@@ -3,6 +3,11 @@
 Code for the paper by R. Passaro, A. Flint, L. M. Aiello, R. Pastor-Satorras and
 A. Baronchelli (2026).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23498149.svg)](https://doi.org/10.5281/zenodo.23498149)
+
+Code: [doi:10.5281/zenodo.23498149](https://doi.org/10.5281/zenodo.23498149).
+Data: [doi:10.5281/zenodo.23497527](https://doi.org/10.5281/zenodo.23497527).
+
 We simulate the naming game with agents whose policies were extracted from four
 LLMs (Llama-3.1-70B, GPT-4o, QwQ-32B and Phi-4) by Flint et al. (2026), on a
 complete graph, on uncorrelated scale-free networks (UCM, gamma = 2.5 and 5.0)
