@@ -1,8 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper."
 title: "Network topology shapes consensus and vulnerability in LLM populations (code)"
+type: software
 version: 1.0.0
 license: MIT
+repository-code: "https://github.com/robertopassaro/llm-naming-game-networks"
 authors:
   - family-names: Passaro
     given-names: Roberto
